@@ -1,0 +1,13 @@
+program Sistema_teste;
+
+uses
+  Forms,
+  Princ in 'Princ.pas' {principal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(Tprincipal, principal);
+  Application.Run;
+end.

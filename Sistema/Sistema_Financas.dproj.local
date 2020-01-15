@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/06/19 11:36:01.000.253,=C:\Users\Q-Cursos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/19 11:37:58.000.462,C:\Users\Q-Cursos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\Arquivos\Sistema\Uprincipal.pas</Transaction>
+    <Transaction>2015/06/19 11:37:58.000.462,C:\Users\Q-Cursos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Delphi\Arquivos\Sistema\Uprincipal.dfm</Transaction>
+    <Transaction>2015/06/19 11:38:26.000.204,C:\Users\Q-Cursos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\Arquivos\Sistema\Sistema_Financas.dproj</Transaction>
+    <Transaction>2015/06/19 14:24:49.000.728,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/19 14:25:11.000.879,C:\Delphi\Arquivos\Sistema\Unit1.dfm=C:\Delphi\Arquivos\Sistema\ModConexao.dfm</Transaction>
+    <Transaction>2015/06/19 14:25:11.000.879,C:\Delphi\Arquivos\Sistema\Unit1.pas=C:\Delphi\Arquivos\Sistema\ModConexao.pas</Transaction>
+    <Transaction>2015/06/23 14:26:30.000.503,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/23 14:26:58.000.092,C:\Delphi\Arquivos\Sistema\Unit1.dfm=C:\Delphi\Arquivos\Sistema\view\ufrmCadastroBasico.dfm</Transaction>
+    <Transaction>2015/06/23 14:26:58.000.092,C:\Delphi\Arquivos\Sistema\Unit1.pas=C:\Delphi\Arquivos\Sistema\view\ufrmCadastroBasico.pas</Transaction>
+    <Transaction>2015/06/24 16:40:13.000.227,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 11:15:58.000.147,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 11:46:55.000.599,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 15:29:16.000.611,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 15:30:18.000.306,C:\Delphi\Arquivos\Sistema\view\ufrmCadastroUsuarios.dfm=C:\Delphi\Arquivos\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2015/06/25 15:30:18.000.306,C:\Delphi\Arquivos\Sistema\view\ufrmCadastroUsuarios.pas=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 17:23:39.000.292,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 17:27:07.000.945,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/25 17:27:26.000.123,C:\Delphi\Arquivos\Sistema\classes\UFuncoes.pas=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/29 15:42:06.000.023,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/29 15:42:33.000.993,C:\Delphi\Arquivos\Sistema\Unit1.pas=C:\Delphi\Arquivos\Sistema\view\ufrmCadastroCaixa.pas</Transaction>
+    <Transaction>2015/06/29 15:42:33.000.993,C:\Delphi\Arquivos\Sistema\Unit1.dfm=C:\Delphi\Arquivos\Sistema\view\ufrmCadastroCaixa.dfm</Transaction>
+    <Transaction>2015/06/30 14:57:56.000.046,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/06/30 14:58:52.000.973,C:\Delphi\Arquivos\Sistema\Unit1.pas=C:\Delphi\Arquivos\Sistema\view\ufrmCadastroPagar.pas</Transaction>
+    <Transaction>2015/06/30 14:58:52.000.973,C:\Delphi\Arquivos\Sistema\Unit1.dfm=C:\Delphi\Arquivos\Sistema\view\ufrmCadastroPagar.dfm</Transaction>
+    <Transaction>2015/07/01 15:30:23.139,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/07/01 15:30:44.689,C:\Delphi\Arquivos\Sistema\view\ufrmCadastroReceber.dfm=C:\Delphi\Arquivos\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2015/07/01 15:30:44.689,C:\Delphi\Arquivos\Sistema\view\ufrmCadastroReceber.pas=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/07/01 17:05:02.353,=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+    <Transaction>2015/07/01 17:05:16.945,C:\Delphi\Arquivos\Sistema\datamodule\udmRelatorios.dfm=C:\Delphi\Arquivos\Sistema\Unit1.dfm</Transaction>
+    <Transaction>2015/07/01 17:05:16.945,C:\Delphi\Arquivos\Sistema\datamodule\udmRelatorios.pas=C:\Delphi\Arquivos\Sistema\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
